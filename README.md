@@ -1,2 +1,2 @@
 # Portfolio-Slider
-# Scriipt for sorting blocks according to arrangement
+# Script for sorting blocks according to arrangement
